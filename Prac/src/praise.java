@@ -1,6 +1,6 @@
 
 public class praise {
 
-	//praise the lord3
+	//praise the lord3g
 	
 }
