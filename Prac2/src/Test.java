@@ -1,4 +1,8 @@
 
 public class Test {
-//test changed
+
+    public static void main(String[] args) {
+        System.out.println("Test!!");
+    }
+
 }
